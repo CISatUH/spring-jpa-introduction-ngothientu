@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40801aaa-392f-4848-9fa0-eeda797f8c44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_jpa_introduction_ngothientu_ear_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/ManagerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ManagerEntity.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -443,7 +439,7 @@
     <property name="SearchEverywhereHistoryKey" value="persis&#9;ACTION&#9;ActivatePersistenceToolWindow&#10;persista&#9;PSI&#9;JAVA://org.springframework.data.domain.Persistable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550426746156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550426850751" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
@@ -625,7 +621,7 @@
       <workItem from="1549982380222" duration="1028000" />
       <workItem from="1549983457925" duration="1604000" />
       <workItem from="1550005845173" duration="3091000" />
-      <workItem from="1550424109801" duration="2590000" />
+      <workItem from="1550424109801" duration="2742000" />
     </task>
     <task id="LOCAL-00001" summary="added the dog class">
       <created>1550008324405</created>
@@ -641,17 +637,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550425882102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed step 1">
+      <created>1550426797768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550426797768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13486000" />
+    <option name="totallyTimeSpent" value="13638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1274" y="0" width="1292" height="1446" extended-state="0" />
     <layout>
       <window_info id="JavaEE:App" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5550725" visible="true" weight="0.23295455" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55597866" visible="true" weight="0.23295455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -659,10 +662,10 @@
       <window_info id="DB Browser" order="5" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info active="true" id="Persistence" order="8" sideWeight="0.44492754" side_tool="true" visible="true" weight="0.23295455" />
+      <window_info id="Persistence" order="8" sideWeight="0.4440213" side_tool="true" visible="true" weight="0.23295455" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978425" visible="true" weight="0.4744859" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978425" weight="0.4744859" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997986" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -683,7 +686,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" sideWeight="0.48237664" weight="0.27516234" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.48237664" visible="true" weight="0.27516234" />
       <window_info anchor="right" id="News Feed" order="5" />
       <window_info anchor="right" id="Data View" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -692,7 +695,7 @@
       <window_info anchor="right" x="100" y="123" width="1720" height="853" id="Documentation" order="10" type="FLOATING" />
       <window_info anchor="right" id="Maven Projects" order="11" sideWeight="0.51762336" side_tool="true" visible="true" weight="0.10756124" />
       <window_info anchor="right" id="SciView" order="12" />
-      <window_info anchor="right" id="Maven" order="13" visible="true" weight="0.20373377" />
+      <window_info anchor="right" id="Maven" order="13" weight="0.20373377" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
