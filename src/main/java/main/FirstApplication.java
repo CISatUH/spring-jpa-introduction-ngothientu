@@ -25,4 +25,19 @@ public class FirstApplication implements CommandLineRunner {
         Person personFromDb = personRepository.findFirstByName("John");
         System.out.println(personFromDb);
     }
+
+    @Autowired
+  ManagerRepository managerRepository;
+
+    @Override
+    public String toString() {
+        Manager manager = new Manager();
+        manager.setLastName("Ngo");
+        managerRepository.save(manager);
+
+        Manager managerFromDb = managerRepository.findByLastName("Ngo");
+        System.out.println(managerFromDb);
+
+        return null;
+    }
 }
