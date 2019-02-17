@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="spring-jpa-introduction-ngothientu:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_jpa_introduction_ngothientu_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-jpa-introduction-ngothientu/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
